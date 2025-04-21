@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jasminegrewal05, a first year CSE student.
+- 👋 Hi, I’m @Jasminegrewal05, a first year Computer Science and Business Systems student.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java and DSA.
+- 🌱 I’m currently into DSA in C/C++. I am also learning data analysis and regression analysis in R language. By the side I am also having my hands on Python and it's libraries along with doing html and css.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 
 - 😄 Pronouns: SHE
