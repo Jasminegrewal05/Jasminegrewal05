@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @Jasminegrewal05, a first year Computer Science and Business Systems student.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently into DSA in C/C++. I am also learning data analysis and regression analysis in R language. By the side I am also having my hands on Python and it's libraries along with doing html and css.
-- 💞️ I’m looking to collaborate on projects.
-- 📫 
-- 😄 Pronouns: SHE
+### Hey there! I'm Jasmine 👋
+
+I'm a Computer Science and Business Systems student exploring the world of tech step by step.
+
+🌱 Currently learning:
+- C, C++, Python programming
+- HTML & CSS
+- Data Structures & Algorithms
+- Data analysis in R language
+
+💡 Goals:
+- Contribute to open-source (starting with GSSoC 2025!)
+- Build my first few personal projects
+- Keep learning and growing every day
+
+🎨 I also love art & craft — bringing creativity into everything I do!
+
+📫 You can reach me here:
+LinkedIn: www.linkedin.com/in/jasmine-kaur-grewal-7302392a6
+Email: jasminekaur3k@gmail.com
+
   
 
 <!---
