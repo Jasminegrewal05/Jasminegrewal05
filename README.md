@@ -1,6 +1,6 @@
 <!-- ===== banner ===== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE9B8,100:E29A3C&height=200&section=header&text=Jasmine%20Grewal&fontColor=5C3A12&fontSize=46&desc=building%20the%20thing%20under%20the%20thing&descSize=16&descAlignY=60&fontAlignY=42"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE9B8,100:E29A3C&height=200&section=header&text=Jasmine%20Kaur&fontColor=5C3A12&fontSize=46&desc=building%20the%20thing%20under%20the%20thing&descSize=16&descAlignY=60&fontAlignY=42"/>
 </p>
 
 ### About
