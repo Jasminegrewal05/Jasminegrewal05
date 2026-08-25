@@ -16,13 +16,7 @@ parsers, engines, the parts most people treat as magic.
 ### Tech
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,c,git,github,vscode,linux&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,opencv,tensorflow,pytorch,sklearn,photoshop,figma,git,github,vscode&theme=light"/>
 </p>
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jasminegrewal05&show_icons=true&hide_border=true&title_color=B45309&icon_color=D97706&text_color=6B4A2B&bg_color=FDF6E3"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Jasminegrewal05&hide_border=true&background=FDF6E3&stroke=E7D7B8&ring=D97706&fire=D97706&currStreakNum=6B4A2B&currStreakLabel=B45309&sideNums=6B4A2B&sideLabels=6B4A2B&dates=A8977A"/>
-</p>
 
