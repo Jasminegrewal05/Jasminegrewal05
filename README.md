@@ -9,9 +9,9 @@ Pre-final-year CS student who likes building the layer *under* the tools:
 parsers, engines, the parts most people treat as magic.
 
 -  Building small systems from scratch to learn how they really work
--  Currently into: anything and everything that makes me curious
+-  Currently into: **anything and everything that makes me curious**
 -  **[jasminekaur3k@gmail.com]** · **[https://www.linkedin.com/in/jasmine-kaur-grewal-7302392a6/]**
--  Fun fact: **[i laugh when i cry & cry when i laugh]**
+-  Fun fact: **i laugh when i cry & cry when i laugh**
 
 ### Tech
 
