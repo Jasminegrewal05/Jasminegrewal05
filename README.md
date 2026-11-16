@@ -1,7 +1,10 @@
-
-<!-- ===== banner ===== -->
+<!-- ===== pixel room ===== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDDE8,100:E8A0B5&height=200&section=header&text=Jasmine%20Kaur&fontColor=A83260&fontSize=46&desc=building%20the%20thing%20under%20the%20thing&descSize=16&descAlignY=60&fontAlignY=42"/>
+  <img width="100%" src="./assets/cozy-desk-v2.svg" alt="cozy pixel room"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A83260&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Jasmine+%F0%9F%8C%B8;building+the+thing+under+the+thing;parsers+%E2%80%A2+engines+%E2%80%A2+magic" />
 </p>
 
 <!-- ===== about ===== -->
@@ -23,5 +26,3 @@ parsers, engines, the parts most people treat as magic.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,opencv,tensorflow,pytorch,sklearn,photoshop,figma,git,github,vscode&theme=light"/>
 </p>
-
-
