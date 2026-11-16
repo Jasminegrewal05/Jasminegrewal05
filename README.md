@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A83260&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Jasmine+%F0%9F%8C%B8;building+the+thing+under+the+thing;parsers+%E2%80%A2+engines+%E2%80%A2+magic" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A83260&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Jasmine+%F0%9F%8C%B8;building+the+thing+under+the+thing;" />
 </p>
 
 <!-- ===== about ===== -->
@@ -12,7 +12,7 @@
 ### About
 
 Pre-final-year CS student who likes building the layer *under* the tools:
-parsers, engines, the parts most people treat as magic.
+parsers, engines, models, data, the parts most people treat as magic.
 
 - Building small systems from scratch to learn how they really work
 - Currently into: **anything and everything that makes me curious**
