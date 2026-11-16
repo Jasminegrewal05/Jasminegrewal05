@@ -1,10 +1,10 @@
 <!-- ===== pixel room ===== -->
 <p align="center">
-  <img width="100%" src="./assets/cozy-desk-v2.svg" alt="cozy pixel room"/>
+  <img width="100%" src="./cozy-desk-v2.svg" alt="cozy pixel room"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A83260&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Jasmine+%F0%9F%8C%B8;building+the+thing+under+the+thing;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A83260&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Jasmine+%F0%9F%8C%B8;building+the+thing+under+the+thing" />
 </p>
 
 <!-- ===== about ===== -->
